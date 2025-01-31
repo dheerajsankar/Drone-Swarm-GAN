@@ -6,7 +6,6 @@ This project demonstrates how to use Generative Adversarial Networks (GANs) to s
 
 ## Files
 - `drone_swarm_simulation.py`: Python code for building and training the GAN.
-- `Drone_Swarm_GAN_StepByStep.pdf`: Detailed guide to creating the GAN.
 
 ## How to Run
 1. Install dependencies:
